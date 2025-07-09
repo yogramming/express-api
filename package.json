@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/yogramming/express-api/issues"
   },
-  "homepage": "https://github.com/yogramming/express-api#readme"
+  "homepage": "https://github.com/yogramming/express-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
